@@ -1,12 +1,27 @@
-# yourbalance
-app for tracking your incomes &amp; expenses
+# 💰 YourBalance
 
-# # VERSION 1
-Here you can add categories of expenses &amp; incomes, sort them by period of time and monitor your wallet. Initialize the database using "init_db.py".
+A simple app for tracking your income and expenses. Organize your transactions, review your spending, and keep an eye on your wallet.
 
-# # VERSION 2
-Added features:
-  Transactions editing '\n'
-  Transactions deleting '\n'
-  Operations' history '\n'
-Initialize the database using "init_db.py"
+## ✨ Features
+
+### Version 1 — The essentials
+
+- Create income and expense categories.
+- Filter transactions by time period.
+- Monitor your wallet balance.
+
+### Version 2 — More control
+
+Includes everything from Version 1, plus:
+
+- ✏️ **Edit transactions** — update existing entries.
+- 🗑️ **Delete transactions** — remove entries you no longer need.
+- 📜 **View transaction history** — review your past activity.
+
+## 🚀 Getting started
+
+Before using either version, initialize the database:
+
+```bash
+python init_db.py
+```
