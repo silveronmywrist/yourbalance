@@ -6,7 +6,7 @@ Here you can add categories of expenses &amp; incomes, sort them by period of ti
 
 # # VERSION 2
 Added features:
-  Transactions editing
-  Transactions deleting
-  Operations' history
+  Transactions editing '\n'
+  Transactions deleting '\n'
+  Operations' history '\n'
 Initialize the database using "init_db.py"
