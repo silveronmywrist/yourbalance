@@ -3,8 +3,6 @@ from db import get_connection
 
 connection = get_connection()
 
-connection.execute("PRAGMA foreign_keys = ON")
-
 connection.execute("""
     CREATE TABLE IF NOT EXISTS categories (
     id INTEGER PRIMARY KEY,
