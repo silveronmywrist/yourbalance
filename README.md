@@ -14,9 +14,16 @@ A simple app for tracking your income and expenses. Organize your transactions, 
 
 Includes everything from Version 1, plus:
 
-- ✏️ **Edit transactions** — update existing entries.
-- 🗑️ **Delete transactions** — remove entries you no longer need.
-- 📜 **View transaction history** — review your past activity.
+-  **Edit transactions** — update existing entries.
+-  **Delete transactions** — remove entries you no longer need.
+-  **View transaction history** — review your past activity.
+
+### Version 3 - Get it easy
+
+Includes everything from Version 2, plus:
+
+- **GUI** - better user experience
+
 
 ## 🚀 Getting started
 
