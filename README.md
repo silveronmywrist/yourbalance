@@ -29,14 +29,14 @@ Includes everything from Version 2, plus:
 
 Download the vers3 folder firstly. Then initialize the database using this command:
 
-'''bash
+```bash
 python init_db.py
-'''
+```
 
 To use this app run this command:
 
-'''bash
+```bash
 python gui.py
-'''
+```
 
-Congratulations, you are ready to go
+Congratulations, you are ready to go. Run the last command every time you want to use the app. 
