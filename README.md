@@ -27,8 +27,16 @@ Includes everything from Version 2, plus:
 
 ## 🚀 Getting started
 
-Before using either version, initialize the database:
+Download the vers3 folder firstly. Then initialize the database using this command:
 
-```bash
+'''bash
 python init_db.py
-```
+'''
+
+To use this app run this command:
+
+'''bash
+python gui.py
+'''
+
+Congratulations, you are ready to go
